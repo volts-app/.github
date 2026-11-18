@@ -1,2 +1,0 @@
-# .github
-Volt Project Metadata
